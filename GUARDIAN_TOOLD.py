@@ -25,7 +25,7 @@ print ("You Tube : https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA")
 print ("github   : https://github.com/AssasimDDOS")
 print ("Facebook : https://www.facebook.com/AssasinDDOS")
 
-ip = raw_input("IP Target : ")
+ip = input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
